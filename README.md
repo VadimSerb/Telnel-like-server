@@ -85,7 +85,6 @@ Boost.Asio является заголовочной библиотекой.
 
 - ``` queue ```
 
-- ``` unordered_set ```
 
 #### Классы: session, server
 
