@@ -73,6 +73,20 @@ Boost.Asio является заголовочной библиотекой.
 
 - ``` filesystem ```
 
+- ```boost/algorithm/string.hpp ```
+
+- ``` boost/date_time.hpp ```
+
+- ``` boost/lexical_cast.hpp ```
+
+- ``` boost/tokenizer.hpp ```
+
+- ``` optional ```
+
+- ``` queue ```
+
+- ``` unordered_set ```
+
 
 ## Демонстрация работы программы
 
