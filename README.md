@@ -82,3 +82,7 @@ Boost.Asio является заголовочной библиотекой.
 2. Демонстрация успешного подключения клиента к серверу:
 
 ![Альтернативный текст](https://sun9-48.userapi.com/impg/Sm2bugfNUfbKMMYduwthzaebiV2_Gg9TGYvtfA/HlkR1j5Z8aQ.jpg?size=1984x522&quality=96&sign=28616a6e16e3f9dbdfaa861e15693bb6&type=album)
+
+3. Отправлю любой текст, кроме пробелов, на сервер и получу инструкцию по работе с псевдотерминалом:
+
+![Альтернативный текст](https://sun9-72.userapi.com/impg/PX33Tjixrdycib4TK5yW3rHg2_FTQ6rixbF8kg/PfS9FsOds8c.jpg?size=1979x519&quality=96&sign=1d8ddaa08df7e68efad1c06a9c578e07&type=album)
