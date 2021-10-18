@@ -78,3 +78,7 @@ Boost.Asio является заголовочной библиотекой.
 1. После успешного запуска программы (окно справа) пытаюсь подключиться к заданному порту 23, поддерживающему TCP протокол: 
 
 ![Альтернативный текст](https://sun9-7.userapi.com/impg/Y_XfffLKhB4hPJc2dl2oEtDJAFYNp7DJuioeHg/kDAzt7UHaok.jpg?size=1992x532&quality=96&sign=7a73b48ee56873043e6c4530f2544fca&type=album)
+
+2. Демонстрация успешного подключения клиента к серверу:
+
+![Альтернативный текст](https://sun9-48.userapi.com/impg/Sm2bugfNUfbKMMYduwthzaebiV2_Gg9TGYvtfA/HlkR1j5Z8aQ.jpg?size=1984x522&quality=96&sign=28616a6e16e3f9dbdfaa861e15693bb6&type=album)
