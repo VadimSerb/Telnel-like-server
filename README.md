@@ -23,7 +23,7 @@ Boost.Asio является заголовочной библиотекой.
 
 В своей реализации я использовал Boost версии 1.77. Установка библиотеки была произведена при помощи встроенного диспетчера пакетов NuGet:
 
-![Альтернативный текст](https://sun9-2.userapi.com/impg/XcSHrkfI0SeWlLM2THQ_ZLxANIrePxIS2HsAJw/42ZVp0gdINU.jpg?size=239x22&quality=96&proxy=1&sign=849d7911873dced54168a83a78ac00b0&type=album)
+![Альтернативный текст](https://sun9-62.userapi.com/impg/E6DXinQo0Cd8WCB6rhMep0vlFyFlsll-M3qn7g/IoKaUTqVCPQ.jpg?size=747x384&quality=96&sign=61552e0243e7f2e4d6d61759e36ef3dd&type=album)
 
 ![Альтернативный текст](https://sun9-57.userapi.com/impg/CKSpTB-MMSy7Y0exkpeTgvi_W1M8ZCMygflgAw/pBF6Rzzqy5M.jpg?size=2148x478&quality=96&sign=f07011827c478b64260b12a0edda875c&type=album)
 
