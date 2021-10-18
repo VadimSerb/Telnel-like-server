@@ -90,3 +90,9 @@ Boost.Asio является заголовочной библиотекой.
 4. Выполню каждую команду:
 
 ![Альтернативный текст](https://sun9-67.userapi.com/impg/jUdqaXL7miqton615gxuQhF9GmXsUnMRTFU3Jw/Q_8_PbqP-Rk.jpg?size=918x600&quality=96&sign=2aaf99b6a5b542d116c64a00b35af9f5&type=album)
+
+Как видно из окна терминала, программа успешно выполняет предусмотренные команды.
+
+5. Сервер успешно обрабатывает команды нескольких клиентов:
+
+![Альтернативный текст](https://sun9-39.userapi.com/impg/tD443rnp6sjHJOoDBYrhyivYh5taxyuwi9Kqjg/NI7jkKuAaGA.jpg?size=1963x1022&quality=96&sign=044b64b3a2710feeca124b7615b70d5d&type=album)
