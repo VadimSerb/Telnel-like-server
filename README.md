@@ -86,3 +86,7 @@ Boost.Asio является заголовочной библиотекой.
 3. Отправлю любой текст, кроме пробелов, на сервер и получу инструкцию по работе с псевдотерминалом:
 
 ![Альтернативный текст](https://sun9-72.userapi.com/impg/PX33Tjixrdycib4TK5yW3rHg2_FTQ6rixbF8kg/PfS9FsOds8c.jpg?size=1979x519&quality=96&sign=1d8ddaa08df7e68efad1c06a9c578e07&type=album)
+
+4. Выполню каждую команду:
+
+![Альтернативный текст](https://sun9-67.userapi.com/impg/jUdqaXL7miqton615gxuQhF9GmXsUnMRTFU3Jw/Q_8_PbqP-Rk.jpg?size=918x600&quality=96&sign=2aaf99b6a5b542d116c64a00b35af9f5&type=album)
